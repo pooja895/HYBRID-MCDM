@@ -1,0 +1,11 @@
+service_name,review,cost,latency,availability,scalability
+AWS,"Excellent uptime, easy to scale and manage.",0.30,0.25,0.99,0.95
+Azure,"Reliable service but a bit costly. Good support.",0.40,0.30,0.98,0.93
+Google Cloud,"Great tools for developers, but interface is confusing.",0.35,0.28,0.97,0.90
+IBM Cloud,"Stable, but lacks advanced AI integration.",0.38,0.33,0.96,0.88
+Oracle Cloud,"Good for enterprise databases, but limited flexibility.",0.42,0.32,0.95,0.85
+Alibaba Cloud,"Affordable and high performance, but poor documentation.",0.25,0.22,0.94,0.87
+DigitalOcean,"Very easy to set up and use for small apps.",0.20,0.18,0.92,0.80
+Linode,"Affordable, but lacks scalability for large enterprises.",0.22,0.20,0.90,0.78
+Heroku,"Best for rapid prototyping. Not for heavy workloads.",0.28,0.24,0.91,0.79
+Vultr,"Fast deployment, good pricing. Needs better monitoring.",0.23,0.19,0.93,0.81
